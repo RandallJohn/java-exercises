@@ -42,7 +42,7 @@ public class GradebookArray {
         }
 
         // Print class roster
-        System.out.println("\nClass roster:");
+        System.out.print("\nClass roster:");
         double sum = 0.0;
 
         for (int i = 0; i < numStudents; i++) {

@@ -21,7 +21,7 @@ public class Gradebook {
         do {
             newStudent = in.nextLine();
 
-            if (!newStudent.equals("")) {
+            if (!newStudent.equals("")) {  // validating that there user inputted a name//
                 students.add(newStudent);
             }
 

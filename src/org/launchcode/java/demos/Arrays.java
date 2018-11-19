@@ -29,7 +29,7 @@ public class Arrays {
     public static void arrayCreation() {
 
         // Declare and initialize an empty array of 10 Integers
-        int[] someInts = new int[10];
+       int[] someInts = new int[10];
 
         // Declare and initialize an array using an array literal
         int[] someOtherInts = {1, 1, 2, 3, 5, 8};
